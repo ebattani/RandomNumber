@@ -4,7 +4,7 @@
 
 #This project is a random password generator that allows you to decide the length and type of characters you want to use. It will then generate a random password.
 
-#![WorkDayScheduler](https://user-images.githubusercontent.com/94639814/155350336-cc2bee9d-9f1c-480b-9f64-82d0efa748e7.png)
+#![PWGenerator](https://user-images.githubusercontent.com/94639814/155350694-7e0fd460-abc4-4257-8c0d-89ae587d7b81.png)
 
 #License: MIT
 
